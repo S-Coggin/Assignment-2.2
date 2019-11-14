@@ -1,2 +1,1 @@
-# Assignment-2.2
-css web page
+# basic_html_css_webpage
