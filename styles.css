@@ -19,7 +19,7 @@
 /* Header */
 .header-section {
     padding: 100px 0px 100px 0px;
-    background-image: url(background.jpeg);
+    background-image: url(background.jpg);
 }
 .header {
     text-align: center;
@@ -55,17 +55,19 @@
 
 /* Services */
 .services-section {
-    padding: 100px 0px;
+    text-align: center;
     background-color:white;
+    padding: 100px 0px;
 }
 .services-title {
+    font-size: 35px;
     text-align: center;
-    font-size: 40px;
+    padding: 0 0 0 40px;
 }
 .services-list {
-    text-align: center;
     list-style-type: none;
     font-size: 24px;
+    text-align: center;
 }
 
 /* work */
